@@ -1,6 +1,6 @@
 # VUT FIT IUS
 
-Projekt do předmětu Úvod do softwarového inženýrství na VUT FIT
+Projekt do předmětu Úvod do softwarového inženýrství na VUT FIT, 1. semestr, zima
 
 Model informačního systému - Pekárna
 
